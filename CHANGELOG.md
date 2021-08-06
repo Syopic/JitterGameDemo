@@ -1,9 +1,18 @@
-## [0.2.4.3] - 2021-07-03
+## [0.2.4.3] - 2021-07-06
 ### Added
-- Launcher for fast updates
+- New level "Minefield"
+- Launcher (early version) for fast updates ( Thanks to jefvel https://github.com/jefvel/hashlink-launcher)
+- Compartments and modules may explode
+- Mines
 
 ### Changed
-- New moving
+- Ship control correction. Now it does not accelerate normally
+- Orientation of the ship - now the main direction - up
 
 ### Fixed
-- Crush after ...
+- Critical error after redocking
+- Crash after returning to the main menu
+
+### Fixed
+- Critical error after redocking
+- Crash after returning to the main menu
