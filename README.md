@@ -8,6 +8,8 @@ Use the launcher to update and launch the game. This will make it easier to get 
 
 https://github.com/Syopic/JitterSandboxDemo/releases/download/0.1/launcher.zip
 
+Unzip and run **hl.exe**
+
 
 ## Game control
 
