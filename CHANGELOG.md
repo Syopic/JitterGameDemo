@@ -12,7 +12,3 @@
 ### Fixed
 - Critical error after redocking
 - Crash after returning to the main menu
-
-### Fixed
-- Critical error after redocking
-- Crash after returning to the main menu
