@@ -2,6 +2,13 @@
 
 **Jitter SandBox** is a sci-fi exploration/survival game in which player takes a role of space ship’s AI. Player’s mission is to rescue survivors after accidental explosion of a huge space station. Player starts a game with a small ship and explores space sectors, adding survivors to the crew, building the ship with new found modules, and dealing with various emergent onboard situations, battles, and random events
 
+## Jitter Launcher
+
+Use the launcher to update and launch the game. This will make it easier to get the latest versions:
+
+https://github.com/Syopic/JitterSandboxDemo/releases/download/0.1/launcher.zip
+
+
 ## Game control
 
 **LMB** - LEFT mouse button  
