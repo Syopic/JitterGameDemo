@@ -15,6 +15,7 @@ Unzip and run **hl.exe**
 
 **LMB** - LEFT mouse button  
 **RMB** - RIGHT mouse button 
+**MMB** - MIDDLE mouse button 
 
 ### Common
 **ESC** : in-game menu  
@@ -31,18 +32,22 @@ Unzip and run **hl.exe**
 **W,A,S,D** : up, left, down, right  
 **Q, E** : rotation left / right
 **SHIFT** : accelerate
-**CTRL** : slow down and stop
+**CTRL** or **RMB** : slow down and stop
 
 ### Ship management
 **LMB** : open / close door, on / off O2 controllers
 
 ### Camera
-**RMB** : click on space and drag for move  
+**MMB** : click on space and drag for move  
 **Arrows up, left, down, right** : move  
 **Mouse wheel scroll** : zoom in / out  
 **+, -** : zoom in / out  
 **R** : follow mode  
 **C** : center on  
+
+### Units
+**LMB** : select
+**RMB** : target to move
 
 ### Docking
 **LMB** : click on the gateway of the joining section and drag to the gateway in your ship  
