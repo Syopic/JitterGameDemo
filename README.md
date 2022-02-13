@@ -14,7 +14,7 @@ Unzip and run **hl.exe**
 ## Game control
 
 **LMB** - LEFT mouse button  
-**RMB** - RIGHT mouse button 
+**RMB** - RIGHT mouse button  
 **MMB** - MIDDLE mouse button 
 
 ### Common
