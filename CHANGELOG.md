@@ -1,3 +1,13 @@
+## [0.3.0.0] - 2022-02-13
+### Added
+- wip
+
+### Changed
+- wip
+
+### Fixed
+- wip
+
 ## [0.2.4.3] - 2021-07-06
 ### Added
 - New level "Minefield"
