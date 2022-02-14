@@ -30,9 +30,9 @@ Unzip and run **hl.exe**
 ### Ship moving
 **LMB** : click on ship and drag
 **W,A,S,D** : up, left, down, right  
-**Q, E** : rotation left / right
-**SHIFT** : accelerate
-**CTRL** or **RMB** : slow down and stop
+**Q, E** : rotation left / right  
+**SHIFT** : accelerate  
+**CTRL** or **RMB** : slow down and stop  
 
 ### Ship management
 **LMB** : open / close door, on / off O2 controllers
