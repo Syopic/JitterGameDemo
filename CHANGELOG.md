@@ -44,9 +44,7 @@
 - Bugs with level parsing
 - Bug with pixel effect
 - Lines undrawn when the game is paused. #265
-- Critical error after redocking #255
 - Save door states after docking #240
-- Error when exited the game to the main menu #256
 - Wrong bitmaps after separate 0.2.4.4 #266
 
 ## [0.2.4.3] - 2021-07-06
