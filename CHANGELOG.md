@@ -23,7 +23,7 @@
 - UI: camera rotation buttons
 - UI: credits
 - Units
-- Units in spce
+- Units in space
 - UI: Crew panel (collapsed list)
 
 ### Changed
