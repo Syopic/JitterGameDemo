@@ -1,3 +1,7 @@
+## [0.3.0.3] - 2022-02-17
+### Changed
+- Docking improvements (slowdown + biggest hitest)
+
 ## [0.3.0.1] - 2022-02-14
 ### Added
 - Name of ships
