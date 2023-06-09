@@ -1,0 +1,22 @@
+[
+    {
+        "created": "Feb 17, 2022",
+        "version": "0.3.0.2",
+        "url":"https://github.com/Syopic/JitterSandboxDemo/releases/download/0.3.0.2/current.zip"
+    },
+    {
+        "created": "Aug 3, 2021",
+        "version": "0.2.4.2",
+        "url":"https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.4.2/tutorial.zip"
+    },
+    {
+        "created": "Jul 26, 2021",
+        "version": "0.2.4.0",
+        "url":"https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.4.0/distrib.zip"
+    },
+    {
+        "created": "May 25, 2021",
+        "version": "0.2.2.0",
+        "url":"https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.2.0/bin.zip"
+    }
+]
