@@ -1,6 +1,6 @@
 ## Jitter Launcher
 
-Use the launcher to update and launch the game. This will make it easier to get the latest versions:
+Use the launcher to update and launch the game builds:
 
 https://github.com/Syopic/JitterSandboxDemo/releases/download/0.1/launcher.zip
 
