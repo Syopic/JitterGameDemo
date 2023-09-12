@@ -2,7 +2,7 @@
 
 Use the launcher to update and launch the game builds:
 
-[Download launcher](https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.2-launcher/launcher.zip)
+[Download launcher](https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.3-launcher/launcher.zip)
 
 Unzip and run **hl.exe**
 
