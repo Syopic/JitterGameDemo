@@ -1,5 +1,4 @@
-## Game control
-# Game control
+## Game control (ENG)
 **LMB** - LEFT mouse button  
 **RMB** - RIGHT mouse button
 
