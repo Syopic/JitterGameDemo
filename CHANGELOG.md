@@ -1,3 +1,6 @@
+## [0.4.5.0] - 2024-02-17
+I think I'll write more someday, but too much has happened during this period
+
 ## [0.3.0.3] - 2022-02-17
 ### Changed
 - Docking improvements (slowdown + biggest hitest)
