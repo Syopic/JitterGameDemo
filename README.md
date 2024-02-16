@@ -8,50 +8,47 @@ Unzip and run **hl.exe**
 
 
 ## Game control
-
+# Game control
 **LMB** - LEFT mouse button  
-**RMB** - RIGHT mouse button  
-**MMB** - MIDDLE mouse button 
+**RMB** - RIGHT mouse button
 
 ### Common
-**ESC** : in-game menu  
+**ESC** : ingame menu  
 **SPACE** : pause  
-**F1** : key map
-**F2** : save current ship image (_./res/ships/saved/_)  
-**F11** : full screen
+**F1** : keys helper  
+**F2** : save game  
+**F3** : restart  
+**F11** : full screen  
+**P** : pixelation   
+**L** : old TV effect
 
-### Modes
-**TAB** : switch between  Ship / Space modes
-
-### Ship moving
-**LMB** : click on ship and drag
-**W,A,S,D** : up, left, down, right  
+### Ship movement
+**LMB** : click on ship and drag (space mode only)  
+**W,A,S,D** : move up, left, down, right  
 **Q, E** : rotation left / right  
-**SHIFT** : accelerate  
-**CTRL** or **RMB** : slow down and stop  
+SHIFT + w/a/s/d : turn and go in that direction 
+CTRL : slow down and stop
 
 ### Ship management
-**LMB** : open / close door, on / off O2 controllers
+**LMB** : open / close door   
+**TAB** : switch between Ship management / Space modes\
+**LMB**: on / off devices      
+**RMB** : O2 controller -> reverse mode  
+
 
 ### Camera
-**MMB** : click on space and drag for move  
-**Arrows up, left, down, right** : move  
-**Mouse wheel scroll** : zoom in / out  
+**RMB** : click on space and drag for move  
+**Key arrows** : move  
+**Mouse wheel** : zoom in / out  
 **+, -** : zoom in / out  
-**R** : follow mode  
-**C** : center on  
-
-### Units
-**LMB** : select
-**RMB** : target to move
+**C** : center on ship  
+**F** : FOW
 
 ### Docking
 **LMB** : click on the gateway of the joining section and drag to the gateway in your ship  
-**X** : cancel docking
+**X** : clear docking  
+**RMB** : undocking
 
-### Debug
-**Alt + LMB** : destroy ship
-**1 - 0** : show / hide debug info
-
-### Other
-**P** : pixelated effect
+### Units
+**LMB** : select   
+**RMB** : target to move
