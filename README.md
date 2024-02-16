@@ -1,12 +1,3 @@
-## Jitter Launcher
-
-Use the launcher to update and launch the game builds:
-
-[Download launcher](https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.3-launcher/launcher.zip)
-
-Unzip and run **hl.exe**
-
-
 ## Game control
 # Game control
 **LMB** - LEFT mouse button  
@@ -52,3 +43,13 @@ CTRL : slow down and stop
 ### Units
 **LMB** : select   
 **RMB** : target to move
+
+
+## Jitter Launcher
+
+Use the launcher to update and launch the game builds:
+
+[Download launcher](https://github.com/Syopic/JitterSandboxDemo/releases/download/0.2.3-launcher/launcher.zip)
+
+Unzip and run **hl.exe**
+
