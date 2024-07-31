@@ -48,7 +48,7 @@ CTRL : slow down and stop
 
 Use the launcher to update and launch the game builds:
 
-[Download launcher](https://berkogames.com/builds/launcher.zip)
+[Download launcher](https://github.com/Syopic/JitterGameDemo/releases/download/0.2.3-launcher/launcher.zip)
 
 Unzip and run **launcher.exe**
 
